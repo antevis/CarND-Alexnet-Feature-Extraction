@@ -1,0 +1,49 @@
+Epoch 0
+Time: 110.215 seconds
+Validation loss:  0.51911681838
+Validation accuracy:  0.859108122776
+
+Epoch 1
+Time: 107.672 seconds
+Validation loss:  0.337995651765
+Validation accuracy:  0.914985702187
+
+Epoch 2
+Time: 107.695 seconds
+Validation loss:  0.265727886883
+Validation accuracy:  0.932838704714
+
+Epoch 3
+Time: 107.693 seconds
+Validation loss:  0.215121789999
+Validation accuracy:  0.948914135582
+
+Epoch 4
+Time: 107.702 seconds
+Validation loss:  0.193397543022
+Validation accuracy:  0.95038256434
+
+Epoch 5
+Time: 107.705 seconds
+Validation loss:  0.169769870391
+Validation accuracy:  0.954633279256
+
+Epoch 6
+Time: 107.703 seconds
+Validation loss:  0.150284077557
+Validation accuracy:  0.962052708865
+
+Epoch 7
+Time: 107.685 seconds
+Validation loss:  0.146568542229
+Validation accuracy:  0.959270422753
+
+Epoch 8
+Time: 107.701 seconds
+Validation loss:  0.138396081681
+Validation accuracy:  0.960584280083
+
+Epoch 9
+Time: 107.697 seconds
+Validation loss:  0.125074499904
+Validation accuracy:  0.966380709506
