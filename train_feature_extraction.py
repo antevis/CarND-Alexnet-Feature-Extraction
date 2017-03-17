@@ -91,9 +91,9 @@ with tf.Session() as sess:
             sess.run(training_operation, feed_dict={features: x_train[offset:batch_end],
                                                     labels: y_train[offset:batch_end]})
 
-            validation_loss, validation_acc = evaluate(x_val, y_val, sess)
-            print("Epoch", i)
-            print("Time: %.3f seconds" % (time.time() - start))
-            print("Validation loss: ", validation_loss)
-            print("Validation accuracy: ", validation_acc)
-            print()
+        validation_loss, validation_acc = evaluate(x_val, y_val, sess)
+        print("Epoch", i)
+        print("Time: %.3f seconds" % (time.time() - start))
+        print("Validation loss: ", validation_loss)
+        print("Validation accuracy: ", validation_acc)
+        print()
